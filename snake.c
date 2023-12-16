@@ -1,3 +1,5 @@
+
+//#link "chr_generic.s"
 #include <stdlib.h>
 #include <string.h>
 #include "neslib.h"
